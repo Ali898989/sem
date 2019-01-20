@@ -51,7 +51,7 @@ python2 .ssss.py
 }
 
 
-
+termux-open https://payload5.wixsite.com/payload5
 echo -e "$green "
 figlet  -f big "           payload 5  "
 chat
