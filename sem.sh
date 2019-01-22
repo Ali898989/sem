@@ -53,7 +53,7 @@ python2 .ssss.py
 
 chat
 sleep 5
-#termux-open https://payload5.wixsite.com/payload5
+termux-open https://payload5.wixsite.com/payload5
 echo -e "$green "
 figlet  -f big "           payload 5  "
 
