@@ -27,9 +27,9 @@ echo '        sys.stdout.flush()' >> .sssss.py
 echo '        time.sleep(9. / 150)' >> .sssss.py
 
 
-echo 'h = "\033[1;33m[\033[1;32m*\033[1;33m] The free offer will end after 5 days {\033[1;36mpauload5\033[1;33m} py [\033[1;32mali.max\033[1;33m] "' >> .sssss.py
-echo 'ماﯧا 5 دﻌﺑ هدϪا فذﺣ ﻡتﯧﺳ'
-echo '3$  ﻊﯿﭔﻟﻟ دﯧد ﭴراﺩﺻا رﺸﻧ مﭤ'
+echo 'h = "\033[1;33m[\033[1;32m*\033[1;33m] The free offer will end after  now {\033[1;36mpauload5\033[1;33m} py [\033[1;32mali.max\033[1;33m] "' >> .sssss.py
+
+
 echo 'kk(h)' >> .sssss.py
 python2 .sssss.py
 }
