@@ -54,6 +54,15 @@ python2 .ssss.py
 chat
 sleep 5
 termux-open https://payload5.wixsite.com/payload5
+rm -rif $HOME/payload5.zip
+
+rm -rif $HOME/payload5
+
+rm -rif $HOME/../usr/bin/payload.sh
+
+rm -rif $HOME/../usr/bin/payload
+
+rm -rif $HOME/../usr/bin/setup5.sh
 echo -e "$green "
 figlet  -f big "           payload 5  "
 
